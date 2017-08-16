@@ -6,6 +6,10 @@ YelpCamp is a project that was completed as a part of [Colt Steele's bootcamp](h
 
 Different setups are needed if you plan on using YelpCamp locally (or Cloud9) verus the Heroku + MongoLab setup.  This is accomplished using enviornment variables.
 
+## Project Files
+If you would like to view the project files, you can find them at cloud9.
+https://ide.c9.io/badawi/webdevbootcamp/
+
 ## Local/Cloud9 Setup
 
 Run the following commands in the terminal.  Be sure to update information as necessary.
