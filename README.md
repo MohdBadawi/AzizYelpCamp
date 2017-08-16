@@ -2,13 +2,13 @@
 
 YelpCamp is a project that was completed as a part of [Colt Steele's bootcamp](https://www.udemy.com/the-web-developer-bootcamp/). YelpCamp is a website built using NodeJS, mongodb, and express. It's a site using which users can add and view campgrounds across the US. It support user authentication, comments, add new campsites, location using google maps, search feature...
 
-# Setup
-
-Different setups are needed if you plan on using YelpCamp locally (or Cloud9) verus the Heroku + MongoLab setup.  This is accomplished using enviornment variables.
-
 ## Project Files
 If you would like to view the project files, you can find them at cloud9.
 https://ide.c9.io/badawi/webdevbootcamp/
+
+# Setup
+
+Different setups are needed if you plan on using YelpCamp locally (or Cloud9) verus the Heroku + MongoLab setup.  This is accomplished using enviornment variables.
 
 ## Local/Cloud9 Setup
 
